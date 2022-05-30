@@ -1,4 +1,4 @@
-//This is my first app .
+//This is my first app ..
 // Package declaration
 package myapp.core;
 
